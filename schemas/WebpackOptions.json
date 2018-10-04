@@ -1908,7 +1908,7 @@
           "type": "boolean"
         },
         {
-          "description": "You can pass an object to enable it and let webpack use the passed object as cache. This way you can share the cache object between multiple compiler calls.",
+          "description": "You can pass an object to enable persistent caching.",
           "type": "object"
         }
       ]
